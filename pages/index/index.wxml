@@ -1,0 +1,13 @@
+<!--index.wxml-->
+<view class="list-item">
+  <view class="movie-item">
+    <image class="poster" mode="widthFix" src="http://douban.newfq.com/qdZOLbw6wcQ5Tlkh_7tMG?imageMogr2/thumbnail/x1680/crop/1080x1600" alt=""></image>
+    <view class="title">
+      <text>电影标题 <text class="rate">8.6分</text></text>
+    </view>
+
+    <view class="info">
+      <text>动作、爱情 / 2016 </text>
+    </view>
+  </view>
+</view>
